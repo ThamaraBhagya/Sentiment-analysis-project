@@ -1,4 +1,5 @@
 # Sentiment-analysis-project
+Live Site : https://sentimentanalysisprojectnew-fufaggene7gtcses.canadacentral-01.azurewebsites.net/ <br>
 Sentiment analysis project
 
 I built a Sentiment Analysis model that classifies tweets into positive and negative comments. This project allowed me to dive into the end-to-end ML pipeline, gaining hands-on experience with a range of tools and techniques, from data preprocessing to deployment. 🚀
